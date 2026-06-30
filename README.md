@@ -20,6 +20,3 @@ pip install -r requirements.txt
 jupyter notebook wine_classification.ipynb
 ```
 
-## Authors
-
-Marios Gasparis (3230021) and Epameinondas Theodorou (3230054)
